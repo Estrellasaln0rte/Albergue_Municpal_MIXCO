@@ -1,0 +1,222 @@
+{
+  "_nota": "Lista de peluditos. Para agregar uno, copia un bloque { ... } y cambia los datos. 'especie': perro | gato. 'tamano': pequeño | mediano | grande. 'estado': disponible | en-proceso | adoptado. 'foto': ruta dentro de public/fotos (ej. 'fotos/luna.jpg') o vacío para usar la ilustración. 'finalFeliz' (solo para adoptados): { fecha, texto, foto } — foto solo con permiso de la familia.",
+  "animales": [
+    {
+      "id": "canela",
+      "nombre": "Canela",
+      "especie": "perro",
+      "sexo": "hembra",
+      "edad": "4 meses",
+      "tamano": "mediano",
+      "estado": "disponible",
+      "color": "#E3A35A",
+      "foto": "",
+      "personalidad": [
+        "juguetona",
+        "cariñosa",
+        "curiosa"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": false
+      },
+      "historia": "Llegó al albergue junto a sus hermanitos. Le encanta perseguir pelotas y dormir en regazos.",
+      "idealPara": "Familias con patio y tiempo para jugar."
+    },
+    {
+      "id": "pirata",
+      "nombre": "Pirata",
+      "especie": "perro",
+      "sexo": "macho",
+      "edad": "3 meses",
+      "tamano": "pequeño",
+      "estado": "disponible",
+      "color": "#F4F1EA",
+      "manchas": "#3A3330",
+      "foto": "",
+      "personalidad": [
+        "valiente",
+        "tierno",
+        "comelón"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": false
+      },
+      "historia": "Tiene una mancha en el ojo que le da su nombre. Es el primero en saludar a todos los visitantes.",
+      "idealPara": "Casa o apartamento con paseos diarios."
+    },
+    {
+      "id": "michi",
+      "nombre": "Michi",
+      "especie": "gato",
+      "sexo": "macho",
+      "edad": "2 años",
+      "tamano": "mediano",
+      "estado": "disponible",
+      "color": "#3A3A40",
+      "manchas": "#FFFFFF",
+      "foto": "",
+      "personalidad": [
+        "tranquilo",
+        "independiente",
+        "ronroneador"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Michi es todo un caballero. Disfruta las siestas al sol y las caricias detrás de las orejas.",
+      "idealPara": "Personas que buscan un compañero calmado."
+    },
+    {
+      "id": "luna",
+      "nombre": "Luna",
+      "especie": "gato",
+      "sexo": "hembra",
+      "edad": "8 meses",
+      "tamano": "pequeño",
+      "estado": "en-proceso",
+      "color": "#F2B26B",
+      "foto": "",
+      "personalidad": [
+        "traviesa",
+        "sociable"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Fue rescatada de un techo durante una tormenta. Hoy es la reina de la sala de gatos.",
+      "idealPara": "Hogares con ventanas protegidas."
+    },
+    {
+      "id": "bruno",
+      "nombre": "Bruno",
+      "especie": "perro",
+      "sexo": "macho",
+      "edad": "5 años",
+      "tamano": "grande",
+      "estado": "disponible",
+      "color": "#8A5A3B",
+      "foto": "",
+      "personalidad": [
+        "leal",
+        "protector",
+        "calmado"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Bruno es un adulto noble que ya sabe caminar con correa. Merece una familia que lo consienta en su madurez.",
+      "idealPara": "Familias con experiencia y espacio amplio."
+    },
+    {
+      "id": "nube",
+      "nombre": "Nube",
+      "especie": "gato",
+      "sexo": "hembra",
+      "edad": "1 año",
+      "tamano": "pequeño",
+      "estado": "disponible",
+      "color": "#FFFFFF",
+      "manchas": "#B9B3AD",
+      "foto": "",
+      "personalidad": [
+        "dulce",
+        "tímida al inicio"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Nube necesita un poquito de paciencia, pero cuando confía no se separa de ti.",
+      "idealPara": "Hogar tranquilo sin niños pequeños."
+    },
+    {
+      "id": "toby",
+      "nombre": "Toby",
+      "especie": "perro",
+      "sexo": "macho",
+      "edad": "1 año",
+      "tamano": "mediano",
+      "estado": "adoptado",
+      "color": "#D9C6A5",
+      "foto": "",
+      "personalidad": [
+        "alegre",
+        "energético"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "¡Toby ya encontró familia! Lo dejamos aquí para celebrar su final feliz.",
+      "idealPara": "",
+      "finalFeliz": {
+        "fecha": "2026-11-05",
+        "texto": "Ahora duerme en un sillón y tiene dos niños que lo sacan a pasear cada tarde.",
+        "foto": ""
+      }
+    },
+    {
+      "id": "frijol",
+      "nombre": "Frijol",
+      "especie": "perro",
+      "sexo": "macho",
+      "edad": "7 años",
+      "tamano": "pequeño",
+      "estado": "disponible",
+      "color": "#2E2A28",
+      "foto": "",
+      "personalidad": [
+        "abuelito",
+        "tranquilo",
+        "amoroso"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Frijol es un abuelito que solo pide una camita suave y alguien con quien ver la tele.",
+      "idealPara": "Personas mayores o familias tranquilas."
+    },
+    {
+      "id": "kiwi",
+      "nombre": "Kiwi",
+      "especie": "gato",
+      "sexo": "hembra",
+      "edad": "6 meses",
+      "tamano": "pequeño",
+      "estado": "adoptado",
+      "color": "#E9E4DA",
+      "manchas": "#E3A35A",
+      "foto": "",
+      "personalidad": [
+        "curiosa",
+        "mimosa"
+      ],
+      "salud": {
+        "vacunas": true,
+        "desparasitado": true,
+        "esterilizado": true
+      },
+      "historia": "Kiwi llegó con apenas un mes de vida y fue criada con biberón por voluntarias.",
+      "idealPara": "",
+      "finalFeliz": {
+        "fecha": "2026-10-20",
+        "texto": "Su familia nos cuenta que ya conquistó la ventana más soleada de la casa.",
+        "foto": ""
+      }
+    }
+  ]
+}

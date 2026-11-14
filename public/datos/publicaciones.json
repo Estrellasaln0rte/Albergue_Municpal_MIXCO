@@ -1,0 +1,125 @@
+{
+  "_nota": "anuncios = jornadas, campañas y avisos importantes (se ocultan solos cuando pasa 'fechaFin'). actividades = el diario del albergue (qué hacen los peluditos). Fechas en formato AAAA-MM-DD. 'tipo' de anuncio: adopcion | vacunacion | esterilizacion | campana | aviso. 'destacado': true lo muestra en la barra superior. necesidades = lo que el albergue necesita con urgencia (prioridad: alta | media | baja).",
+  "necesidades": [
+    {
+      "nombre": "Arena para gatos",
+      "prioridad": "alta",
+      "detalle": "Se nos termina esta semana"
+    },
+    {
+      "nombre": "Concentrado para cachorro",
+      "prioridad": "alta",
+      "detalle": "Llegaron 6 cachorritos nuevos"
+    },
+    {
+      "nombre": "Desparasitante",
+      "prioridad": "media",
+      "detalle": "Para perro y gato"
+    },
+    {
+      "nombre": "Toallas y sábanas",
+      "prioridad": "baja",
+      "detalle": "Usadas, en buen estado"
+    }
+  ],
+  "anuncios": [
+    {
+      "id": "adopcion-dogcity",
+      "tipo": "adopcion",
+      "titulo": "Jornada de Adopción de perros y gatos",
+      "fechaInicio": "2026-11-13",
+      "fechaFin": "2026-11-14",
+      "horario": "12:00 a 17:00",
+      "lugar": "Centro comercial (lugar de ejemplo), zona 8 de Mixco",
+      "descripcion": "Ven a conocer a los peluditos que buscan familia. Lleva tu DPI y recibo de servicios si deseas iniciar tu proceso.",
+      "imagen": "",
+      "destacado": true
+    },
+    {
+      "id": "vacunacion-z11",
+      "tipo": "vacunacion",
+      "titulo": "Jornada de Vacunación a bajo costo",
+      "fechaInicio": "2026-11-18",
+      "fechaFin": "2026-11-18",
+      "horario": "A partir de las 10:00",
+      "lugar": "Zona 11 de Mixco (lugar de ejemplo)",
+      "descripcion": "Para perros y gatos. Atención con previa cita por WhatsApp.",
+      "imagen": "",
+      "destacado": false
+    },
+    {
+      "id": "campana-alimento",
+      "tipo": "campana",
+      "titulo": "Campaña: Llenemos el plato",
+      "fechaInicio": "2026-11-01",
+      "fechaFin": "2026-12-31",
+      "horario": "En horario de atención",
+      "lugar": "Sede del albergue",
+      "descripcion": "Recibimos concentrado para perro y gato. ¡Cada libra cuenta para este fin de año!",
+      "imagen": "",
+      "destacado": false
+    },
+    {
+      "id": "aviso-diciembre",
+      "tipo": "aviso",
+      "titulo": "Horario especial de fin de año",
+      "fechaInicio": "2026-12-20",
+      "fechaFin": "2027-01-05",
+      "horario": "",
+      "lugar": "",
+      "descripcion": "Durante las fiestas la atención al público será solo por la mañana. Los peluditos siguen recibiendo cuidado todos los días.",
+      "imagen": "",
+      "destacado": false
+    }
+  ],
+  "actividades": [
+    {
+      "id": "a1",
+      "fecha": "2026-11-12",
+      "titulo": "Día de baño",
+      "texto": "Canela y Pirata estrenaron champú antipulgas. Pirata intentó escapar dos veces, pero terminó oliendo delicioso.",
+      "animales": [
+        "canela",
+        "pirata"
+      ],
+      "foto": "",
+      "emoji": "🛁"
+    },
+    {
+      "id": "a2",
+      "fecha": "2026-11-10",
+      "titulo": "Paseo con voluntarios",
+      "texto": "Un grupo de voluntarios llevó a Bruno y Frijol a caminar. Bruno fue un caballero con la correa.",
+      "animales": [
+        "bruno",
+        "frijol"
+      ],
+      "foto": "",
+      "emoji": "🦮"
+    },
+    {
+      "id": "a3",
+      "fecha": "2026-11-08",
+      "titulo": "Chequeo veterinario",
+      "texto": "Michi, Luna y Nube recibieron su refuerzo de vacunas. ¡Todas sanas y listas para su nuevo hogar!",
+      "animales": [
+        "michi",
+        "luna",
+        "nube"
+      ],
+      "foto": "",
+      "emoji": "🩺"
+    },
+    {
+      "id": "a4",
+      "fecha": "2026-11-05",
+      "titulo": "¡Final feliz!",
+      "texto": "Toby se fue a casa con su nueva familia. Gracias por adoptar y no comprar.",
+      "animales": [
+        "toby"
+      ],
+      "foto": "",
+      "emoji": "🏡"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Carpeta de fotos del sitio.
+
+- Guarden aquí las fotos de los animales, avisos y el logo.
+- Nombres sin espacios ni tildes, en minúsculas: canela.jpg, logo.png
+- Menos de 300 KB por foto (se pueden reducir en https://squoosh.app).
+- En los archivos de datos se escriben así: "foto": "fotos/canela.jpg"
+- Usen solo fotos propias o autorizadas.

@@ -1,0 +1,5 @@
+﻿id,tipo,titulo,fechaInicio,fechaFin,horario,lugar,descripcion,imagen,destacado
+adopcion-dogcity,adopcion,Jornada de Adopción de perros y gatos,2026-11-13,2026-11-14,12:00 a 17:00,"Centro comercial (lugar de ejemplo), zona 8 de Mixco",Ven a conocer a los peluditos que buscan familia. Lleva tu DPI y recibo de servicios si deseas iniciar tu proceso.,,sí
+vacunacion-z11,vacunacion,Jornada de Vacunación a bajo costo,2026-11-18,2026-11-18,A partir de las 10:00,Zona 11 de Mixco (lugar de ejemplo),Para perros y gatos. Atención con previa cita por WhatsApp.,,no
+campana-alimento,campana,Campaña: Llenemos el plato,2026-11-01,2026-12-31,En horario de atención,Sede del albergue,Recibimos concentrado para perro y gato. ¡Cada libra cuenta para este fin de año!,,no
+aviso-diciembre,aviso,Horario especial de fin de año,2026-12-20,2027-01-05,,,Durante las fiestas la atención al público será solo por la mañana. Los peluditos siguen recibiendo cuidado todos los días.,,no

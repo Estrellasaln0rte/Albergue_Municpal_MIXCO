@@ -1,0 +1,289 @@
+{
+  "_nota": "DATOS DE EJEMPLO. Reemplazar con la información oficial que autorice el albergue. Los campos que digan PENDIENTE deben confirmarse.",
+  "nombre": "Albergue Municipal de Mascotas Mixco",
+  "nombreCorto": "Albergue Mixco",
+  "eslogan": "Cada huella merece un hogar",
+  "descripcion": "Rescatamos, cuidamos y buscamos familias responsables para perros y gatos de Mixco. Aquí cada peludito recibe alimento, atención veterinaria y mucho cariño mientras encuentra su lugar en el mundo.",
+  "logo": {
+    "linea1": "Albergue Municipal",
+    "linea2": "Mascotas Mixco",
+    "imagen": ""
+  },
+  "creditos": "Plantilla desarrollada como proyecto de Aprendizaje y Servicio — Universidad Rafael Landívar",
+  "cifras": [
+    {
+      "valor": "120+",
+      "texto": "adopciones al año"
+    },
+    {
+      "valor": "60",
+      "texto": "peluditos esperando hogar"
+    },
+    {
+      "valor": "300+",
+      "texto": "vacunas aplicadas en jornadas"
+    },
+    {
+      "valor": "7",
+      "texto": "días a la semana cuidándolos"
+    }
+  ],
+  "contacto": {
+    "telefono": "0000-0000 (PENDIENTE)",
+    "whatsapp": "50200000000",
+    "whatsappTexto": "0000-0000 (PENDIENTE)",
+    "correo": "correo@pendiente.com",
+    "mensajeWhatsapp": "¡Hola! Vengo de la página web del Albergue y quisiera información."
+  },
+  "redes": [
+    {
+      "red": "facebook",
+      "nombre": "Facebook",
+      "url": "https://www.facebook.com/AlbergueMunicipaldeMascotasMixco/"
+    },
+    {
+      "red": "instagram",
+      "nombre": "Instagram",
+      "url": "https://www.instagram.com/alberguemascotasmixco/"
+    }
+  ],
+  "sede": {
+    "direccion": "Dirección PENDIENTE, Mixco, Guatemala",
+    "referencia": "Punto de referencia PENDIENTE",
+    "mapaEmbed": "https://www.google.com/maps?q=Mixco,+Guatemala&output=embed",
+    "mapaLink": "https://maps.google.com/?q=Mixco,+Guatemala",
+    "horarios": [
+      {
+        "dias": "Lunes a viernes",
+        "horas": "8:00 a 16:00 (PENDIENTE)"
+      },
+      {
+        "dias": "Sábado",
+        "horas": "8:00 a 12:00 (PENDIENTE)"
+      },
+      {
+        "dias": "Domingo",
+        "horas": "Cerrado al público (los peluditos sí reciben cuidado)"
+      }
+    ],
+    "servicios": [
+      "Adopción responsable de perros y gatos",
+      "Jornadas de vacunación a bajo costo",
+      "Jornadas de esterilización",
+      "Recepción de reportes de animales en riesgo",
+      "Voluntariado"
+    ]
+  },
+  "historia": {
+    "intro": "Texto de ejemplo: el albergue nació como respuesta de la Municipalidad de Mixco a la cantidad de animales en situación de calle. Este espacio debe completarse con la historia real que comparta el albergue.",
+    "hitos": [
+      {
+        "anio": "Año PENDIENTE",
+        "titulo": "Nace el albergue",
+        "texto": "La Municipalidad abre un espacio para resguardar perros y gatos rescatados."
+      },
+      {
+        "anio": "Año PENDIENTE",
+        "titulo": "Primeras jornadas",
+        "texto": "Comienzan las jornadas de vacunación y esterilización en distintas zonas de Mixco."
+      },
+      {
+        "anio": "Año PENDIENTE",
+        "titulo": "Alianzas",
+        "texto": "Se suman voluntarios, empresas y centros comerciales para jornadas de adopción."
+      },
+      {
+        "anio": "2026",
+        "titulo": "Nuevo sitio web",
+        "texto": "Estrenamos esta página para que más familias conozcan a nuestros peluditos."
+      }
+    ],
+    "mision": "Proteger y dar una segunda oportunidad a perros y gatos en situación de abandono, promoviendo la adopción y la tenencia responsable.",
+    "vision": "Un Mixco donde ningún animal viva en la calle y cada familia conozca el valor de adoptar con responsabilidad."
+  },
+  "adopcion": {
+    "pasos": [
+      {
+        "titulo": "Conócelo",
+        "texto": "Explora los peluditos disponibles y elige con calma al que encaje con tu estilo de vida."
+      },
+      {
+        "titulo": "Escríbenos",
+        "texto": "Envíanos tu solicitud por WhatsApp o el formulario para agendar una visita."
+      },
+      {
+        "titulo": "Entrevista y visita",
+        "texto": "Conversamos contigo para asegurarnos de que es la mejor decisión para ambos."
+      },
+      {
+        "titulo": "¡Bienvenido a casa!",
+        "texto": "Firmas el compromiso de adopción y le das un hogar para siempre."
+      }
+    ],
+    "requisitos": [
+      "Ser mayor de 18 años",
+      "DPI vigente (fotocopia)",
+      "Recibo de luz o agua reciente",
+      "Contar con espacio seguro para la mascota",
+      "Acuerdo de toda la familia",
+      "Compromiso de esterilización y vacunas"
+    ],
+    "aviso": "Adoptar es una decisión para toda la vida (10 a 15 años). Te pedimos pensarlo con calma: no es un regalo ni una decisión impulsiva.",
+    "cuestionario": {
+      "intro": "Estas preguntas nos ayudan a conocerte y a encontrar al compañero ideal. No hay respuestas buenas o malas.",
+      "formularioExterno": "",
+      "preguntas": [
+        {
+          "id": "vivienda",
+          "pregunta": "¿Dónde vives?",
+          "tipo": "opciones",
+          "opciones": [
+            "Casa con patio",
+            "Casa sin patio",
+            "Apartamento"
+          ]
+        },
+        {
+          "id": "propia",
+          "pregunta": "¿La vivienda es propia o alquilada?",
+          "tipo": "opciones",
+          "opciones": [
+            "Propia",
+            "Alquilada (con permiso para mascotas)",
+            "Alquilada (no sé si permiten)"
+          ]
+        },
+        {
+          "id": "familia",
+          "pregunta": "¿Todos en casa están de acuerdo con adoptar?",
+          "tipo": "opciones",
+          "opciones": [
+            "Sí, todos",
+            "Aún lo estamos hablando",
+            "Vivo solo/a"
+          ]
+        },
+        {
+          "id": "otras",
+          "pregunta": "¿Tienes otras mascotas?",
+          "tipo": "opciones",
+          "opciones": [
+            "No",
+            "Sí, perros",
+            "Sí, gatos",
+            "Sí, perros y gatos"
+          ]
+        },
+        {
+          "id": "horas",
+          "pregunta": "¿Cuántas horas al día estaría solo?",
+          "tipo": "opciones",
+          "opciones": [
+            "Menos de 4",
+            "De 4 a 8",
+            "Más de 8"
+          ]
+        },
+        {
+          "id": "experiencia",
+          "pregunta": "¿Has tenido mascotas antes?",
+          "tipo": "opciones",
+          "opciones": [
+            "Sí",
+            "No, sería la primera"
+          ]
+        },
+        {
+          "id": "porque",
+          "pregunta": "¿Por qué quieres adoptar?",
+          "tipo": "texto"
+        },
+        {
+          "id": "zona",
+          "pregunta": "¿En qué zona o municipio vives?",
+          "tipo": "texto",
+          "opcional": true
+        }
+      ]
+    }
+  },
+  "donaciones": {
+    "intro": "Tu apoyo se convierte en comida, medicina y camitas. Todas las opciones son seguras: este sitio NO procesa pagos ni guarda datos bancarios.",
+    "cuentas": [
+      {
+        "banco": "Banco PENDIENTE",
+        "tipo": "Monetaria",
+        "numero": "000-000000-0",
+        "nombre": "Nombre de la cuenta PENDIENTE"
+      }
+    ],
+    "enlacePago": {
+      "activo": false,
+      "texto": "Donar en línea",
+      "url": "",
+      "nota": "Cuando el albergue lo decida, aquí va el enlace de una plataforma de pagos verificada (por ejemplo, un link de pago bancario)."
+    },
+    "insumos": [
+      {
+        "icono": "🍖",
+        "nombre": "Alimento",
+        "detalle": "Concentrado para perro y gato (cachorro y adulto)"
+      },
+      {
+        "icono": "💊",
+        "nombre": "Medicinas",
+        "detalle": "Desparasitantes, antipulgas, vitaminas"
+      },
+      {
+        "icono": "🧺",
+        "nombre": "Limpieza",
+        "detalle": "Cloro, jabón, desinfectante, periódico"
+      },
+      {
+        "icono": "🛏️",
+        "nombre": "Descanso",
+        "detalle": "Toallas, sábanas y camitas en buen estado"
+      },
+      {
+        "icono": "🦴",
+        "nombre": "Juguetes",
+        "detalle": "Juguetes resistentes, collares y correas"
+      },
+      {
+        "icono": "🐾",
+        "nombre": "Arena",
+        "detalle": "Arena para gatos y areneros"
+      }
+    ],
+    "voluntariado": "¿Tienes tiempo? Puedes ayudar a pasear, bañar y socializar a los peluditos. Escríbenos para conocer los horarios de voluntariado.",
+    "transparencia": {
+      "periodo": "Noviembre 2026 (EJEMPLO)",
+      "nota": "Cifras de ejemplo. El albergue las actualiza cada mes.",
+      "items": [
+        {
+          "texto": "Alimento recibido",
+          "valor": 320,
+          "meta": 500,
+          "unidad": "lb"
+        },
+        {
+          "texto": "Arena para gatos",
+          "valor": 45,
+          "meta": 100,
+          "unidad": "lb"
+        },
+        {
+          "texto": "Esterilizaciones realizadas",
+          "valor": 38,
+          "meta": 50,
+          "unidad": ""
+        },
+        {
+          "texto": "Adopciones del mes",
+          "valor": 11,
+          "unidad": ""
+        }
+      ]
+    }
+  }
+}

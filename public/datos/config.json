@@ -1,0 +1,14 @@
+{
+  "_ayuda": "OPCIONAL. Si el albergue prefiere editar desde Google Sheets: importen las plantillas de la carpeta plantillas/google-sheets, luego en Google Sheets vayan a Archivo > Compartir > Publicar en la web, elijan la pestaña y el formato 'Valores separados por comas (.csv)' y peguen el enlace aquí. Si un enlace queda vacío, se usa el archivo JSON. ¡Nunca publiquen hojas con datos personales!",
+  "googleSheets": {
+    "animales": "",
+    "anuncios": "",
+    "actividades": "",
+    "necesidades": ""
+  },
+  "_ayudaSupabase": "FASE 2, OPCIONAL. Solo si el albergue crea la base de datos de docs/base-de-datos/esquema.sql en Supabase: pegar aquí la URL del proyecto y la clave pública (anon). Los animales se leerán de la vista animales_publicos. NUNCA pegar la clave service_role.",
+  "supabase": {
+    "url": "",
+    "anonKey": ""
+  }
+}

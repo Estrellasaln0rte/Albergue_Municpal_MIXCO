@@ -1,0 +1,33 @@
+{
+  "name": "albergue-mascotas-mixco",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "verificar": "node scripts/verificar.mjs",
+    "prebuild": "node scripts/verificar.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "plantillas": "node scripts/plantillas.mjs",
+    "respaldo-a-csv": "node scripts/respaldo-a-csv.mjs",
+    "docs:pdf": "node scripts/generar-pdf.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "marked": "^15.0.12",
+    "vite": "^5.4.11"
+  },
+  "overrides": {
+    "rollup": "npm:@rollup/wasm-node@^4.27.0"
+  },
+  "description": "Sitio web y Panel de gestión del Albergue Municipal de Mascotas Mixco",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
